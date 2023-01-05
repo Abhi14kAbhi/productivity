@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461334396994",
+    "project_id": "productivity-deab5",
+    "storage_bucket": "productivity-deab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461334396994:android:2dbea2b7d32b8c5ff12ddb",
+        "android_client_info": {
+          "package_name": "com.productivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461334396994-qcfkj956sgcejo4bp7vkgdrnvv8u5ebd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-pyNnHYegNTp8KwDFkuaQj1GhVOP6aTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461334396994-qcfkj956sgcejo4bp7vkgdrnvv8u5ebd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

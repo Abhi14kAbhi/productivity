@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/b.ttf",
+      "sha1": "101a60d79e0c2102f0517d6628306be183d49c7e"
+    },
+    {
+      "path": "src/assets/fonts/bi.ttf",
+      "sha1": "b8b21ac09f34dce659b8c6ba9edbfdc54735825a"
+    },
+    {
+      "path": "src/assets/fonts/e.ttf",
+      "sha1": "bb93b4a81cd07ebcb76f10b726c7c91686ec6dd4"
+    },
+    {
+      "path": "src/assets/fonts/eb.ttf",
+      "sha1": "a2b4e668f757dc4932c140a82e4a892ba14ebf43"
+    },
+    {
+      "path": "src/assets/fonts/ebi.ttf",
+      "sha1": "e0d5095fc50e66cdeba4d78087611377ccb48913"
+    },
+    {
+      "path": "src/assets/fonts/ei.ttf",
+      "sha1": "217cdcb3cbc700822b3d15e143fb804eedfbb11c"
+    },
+    {
+      "path": "src/assets/fonts/i.ttf",
+      "sha1": "fb1a7cfad455c5600093a69ba22f7d1135ae7719"
+    },
+    {
+      "path": "src/assets/fonts/n.ttf",
+      "sha1": "0540e9ed9aed95d793e36f149dd2cd15dd86fb5d"
+    },
+    {
+      "path": "src/assets/fonts/s.ttf",
+      "sha1": "04ff59cb2b577f10b34672a6751ca486db4d38b9"
+    },
+    {
+      "path": "src/assets/fonts/si.ttf",
+      "sha1": "a39b86fc592ff198831d3f2af75ccf6eac61dcaa"
+    }
+  ]
+}
